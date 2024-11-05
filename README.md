@@ -36,5 +36,8 @@
 
 😄 Pronouns: She/Her
 
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
-
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+ <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
+</div>
+</details>
